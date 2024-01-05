@@ -14,7 +14,7 @@ baseurl: "/jekyllthemeofbusinesscasual" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Gems
-gems: [jekyll-paginate]
+# gems: [jekyll-paginate]
 
 plugins:
   - jekyll-feed
