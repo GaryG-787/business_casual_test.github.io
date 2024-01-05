@@ -16,6 +16,10 @@ url: "" # the base hostname & protocol for your site
 # Gems
 gems: [jekyll-paginate]
 
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
 # Build settings
 markdown: kramdown
 paginate: 5
